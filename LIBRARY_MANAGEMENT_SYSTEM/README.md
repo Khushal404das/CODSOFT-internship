@@ -16,7 +16,7 @@
 
      Author:
            - instagram - @Khushal_Das
-	       - github - @harshitkumar9030
+	       - github - @Khushal404das
 	       - twitter - @KhushalDas40	
          
          
